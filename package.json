@@ -32,14 +32,19 @@
     "parameterize": "^1.0.0",
     "path": "^0.12.7",
     "react": "18.2.0",
+    "react-compare-image": "^3.4.0",
     "react-dom": "18.2.0",
     "react-helmet": "^6.1.0",
     "react-icons": "^4.8.0",
+    "react-slick": "^0.29.0",
     "rss": "^1.2.2",
     "sass": "^1.62.0",
-    "style.css": "^1.0.3"
+    "slick-carousel": "^1.8.1",
+    "style.css": "^1.0.3",
+    "styled-components": "^5.3.10"
   },
   "devDependencies": {
+    "@types/styled-components": "^5.1.25",
     "eslint": "8.23.1",
     "eslint-config-next": "^12.3.1",
     "eslint-config-prettier": "^8.7.0",
@@ -48,7 +53,8 @@
     "husky": "^8.0.3",
     "lint-staged": ">=13.2.1",
     "playwright": "^1.26.0",
-    "prettier": "2.7.1"
+    "prettier": "2.7.1",
+    "sass": "^1.62.1"
   },
   "repository": {
     "type": "git",
